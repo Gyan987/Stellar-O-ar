@@ -60,6 +60,7 @@ By participating in this project, you agree to treat all contributors with respe
 *   Format using Rust standard styling:
     ```bash
     cargo fmt
+    
     ```
 
 ---
