@@ -271,6 +271,7 @@ GitHub Actions automatically performs:
 
 # Stellar Level 3 Checklist
 
+
 - Wallet Connection
 - Multi-Wallet Support
 - Balance Fetching
