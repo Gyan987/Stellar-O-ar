@@ -17,3 +17,4 @@ strip = true
 [profile.release-with-logs]
 inherits = "release"
 debug = true
+
