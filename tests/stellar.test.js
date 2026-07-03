@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert';
 import { Keypair } from 'stellar-sdk';
 
-// Setup mock global localStorage for tests
+// Setup mock global localStorage for tests.
 const mockLocalStorage = {};
 globalThis.localStorage = {
   getItem: (key) => mockLocalStorage[key] || null,
